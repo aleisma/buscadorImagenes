@@ -1,5 +1,5 @@
 # buscadorImagenes
-El sitio es un Spa responsive el cual permite filtrar, descargar imágenes utilizando un buscador y  Consumiendo la API de Pixabay... el mismo se realizo con React, html5,css3 (framework materialize) y Nodejs.
+El sitio es un Spa responsive el cual permite filtrar, descargar imágenes utilizando un buscador y  Consumiendo la API de Pixabay... el mismo se realizo con React, html5,css3 (framework boostrap) y Nodejs.
 
 
 ![Screenshot](screenshot.png)
